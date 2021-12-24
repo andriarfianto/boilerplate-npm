@@ -1,6 +1,6 @@
 {
-	"author": "andri arfianto",
 	"name": "fcc-learn-npm-package-json",
+	"author": "andri arfianto",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
